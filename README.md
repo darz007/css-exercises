@@ -3,8 +3,8 @@
 CSS Foundations exercises - completed
 
 What I learned?
-- I would classify myself as highly proficient in CSS prior to starting this, I was quite surprised that I learned something new while doing this. The largest takeaway from this section of the course was the section regarding the CSS cascade. Although I previously understood this for the most part, there were some knowledge gaps that were filled in that will make my life easier moving forward when fixing bugs as I now have a better understanding of what CSS rules trump others. Section I am regering to in the above comments: https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/css-foundations#the-cascade-of-css
-- I would also just like to add that this foundations is a brilliant way to teach CSS to begineers, it really helps them wrap their head around how to apply CSS cleanly, properly and efficiently and how to identify errors in their CSS. I wish I had this when I first learned CSS years ago. Would have made my journey much smoother. 
+- I would classify myself as highly proficient in CSS prior to starting this, I was quite surprised that I learned something new while doing this. The largest takeaway from this section of the course was the section regarding the CSS cascade. Although I previously understood this for the most part, there were some knowledge gaps that were filled in that will make my life easier moving forward when fixing bugs as I now have a better understanding of what CSS rules trump others. Section I am refering to in the above comments: https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/css-foundations#the-cascade-of-css
+- I would also just like to add that this foundations is a brilliant way to teach CSS to beginners, it really helps them wrap their head around how to apply CSS cleanly, properly and efficiently and how to identify errors in their CSS. I wish I had this when I first learned CSS years ago. Would have made my journey much smoother. 
 
 These exercises are a series of CSS related tasks intended to complement the HTML and CSS content on The Odin Project.
 
