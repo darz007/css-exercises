@@ -1,0 +1,9 @@
+What I've learned:
+
+- I properly understood how chaining two classes together works e.g. HTML | <div class="subsection header>. CSS | .subsection.header {color: red} This will apply the css only to elements that have both classes. This part I knew and has always worked for me. What I've struggled with in the past is when there is more than one type selector involved. e.g. div.subsection.p.header This won't work, however div.subsection.header does. I now understand why.
+- If you don't set height and width dimensions for images which can seldemly be the case when you perfectly size an image to fit. I learned that this can cause potential page load issues as the image won't take up any space and then shift content around it once it does eventually load. I have come across this a lot on the web where content gets pushed down after aspects of a page loads and it can be really annoying when trying to click something to then see it quickly move. Looks like images can be a catalyst for this issue in some classes
+- I properly learned something that I find very useful to know well that I only loosley knew previously. The CSS cascade. When there is conflicts in the CSS of multiple declerations targeting the same elements, exactly which decleration will overule the others. This will make my life easier when de-bugging my CSS to know exactly what to look for when trying to figure out why something isn't displaying the way it should even though I have told it to.
+- 
+
+2pm - 3pm
+Microsoft Teams
