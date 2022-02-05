@@ -6,6 +6,15 @@ What I learned?
 - I would classify myself as highly proficient in CSS prior to starting this, I was quite surprised that I learned something new while doing this. The largest takeaway from this section of the course was the section regarding the CSS cascade. Although I previously understood this for the most part, there were some knowledge gaps that were filled in that will make my life easier moving forward when fixing bugs as I now have a better understanding of what CSS rules trump others. Section I am refering to in the above comments: https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/css-foundations#the-cascade-of-css
 - I would also just like to add that this foundations is a brilliant way to teach CSS to beginners, it really helps them wrap their head around how to apply CSS cleanly, properly and efficiently and how to identify errors in their CSS. I wish I had this when I first learned CSS years ago. Would have made my journey much smoother. 
 
+CSS Flex Foundations exercises - completed 
+
+What I learned? 
+- Prior to this, I would say that flexbox's was one of my stronger skills as I had used it quite a lot in the past. 
+- This section of the course however taught me a few new things I didn't know, some of which were more recently added to flexbox.
+- I also really learnt to properly understand flex and use it to its absolute potential.
+- My biggest take away from this is how I can better utilise and more efficiently deploy flex for headers and footers in ways I didn't quite think of in the past.
+- The use of the new gap and space-space evenly attributes will be very useful too.
+
 These exercises are a series of CSS related tasks intended to complement the HTML and CSS content on The Odin Project.
 
 These exercises should be done when instructed during the course of the curriculum.
